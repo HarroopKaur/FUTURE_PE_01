@@ -1,10 +1,16 @@
 # Project Overview
 
-This project focuses on building a structured prompt system that generates professional website copy for local businesses.
+## Task:
+AI Website Copy Generator for Local Businesses
 
-The goal is to:
-- Generate homepage content
-- Create service page descriptions
-- Write strong Call-To-Action sections
-- Adapt tone based on business type
-- Ensure content is persuasive and website-ready
+## Objective:
+To design a structured prompt system that generates high-conversion website copy using AI tools.
+
+## Business Problem:
+Many local businesses struggle to create persuasive and professional website copy. This project builds a prompt framework that solves this using AI.
+
+## Key Deliverables:
+- Homepage copy
+- Service page descriptions
+- Strong Call-To-Action (CTA) sections
+- Tone adaptation for different businesses
