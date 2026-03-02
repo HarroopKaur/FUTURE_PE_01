@@ -6,6 +6,10 @@ Prompt Engineering Internship – Future Interns
 
 ---
 
+Client Input → Structured Prompt → AI Output → Iteration → Final Website Copy
+
+---
+
 ## 📌 Project Overview
 
 This project demonstrates a structured prompt engineering system designed to generate high-conversion website copy for local businesses.
