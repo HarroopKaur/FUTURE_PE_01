@@ -29,3 +29,29 @@ Ready to See How AI Can Simplify Your Business?
 Book a free consultation and discover how custom AI solutions can streamline your operations, increase productivity, and free up your time to focus on growth.
 
 Schedule Your Free AI Strategy Call Today →
+
+---
+
+## Version 2 – Optimized Output
+
+### Headline:
+Turn 10+ Hours of Manual Work Into Fully Automated Systems
+
+### Sub-Headline:
+Custom AI automation built for Brampton businesses that want to operate smarter, respond faster, and scale without hiring more staff.
+
+### Introduction:
+At NovaAI Solutions, we help small and medium-sized businesses eliminate repetitive tasks and streamline operations using practical, custom-built AI.
+
+Whether it’s an AI chatbot handling customer inquiries 24/7, automated workflows that remove bottlenecks, or seamless AI integration into your existing systems — we build solutions that fit your business, not the other way around.
+
+No bloated software. No confusing tech talk. Just efficient systems that save time, reduce costs, and increase productivity from day one.
+
+### CTA Section:
+Stop Losing Time to Manual Processes
+
+Your competitors are automating. The question is — will you?
+
+Book your free strategy consultation and walk away with a clear automation roadmap tailored to your business.
+
+Claim Your Free AI Automation Strategy Call Now →
