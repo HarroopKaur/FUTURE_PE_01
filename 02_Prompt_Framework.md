@@ -1,6 +1,16 @@
 # Prompt Framework Design
 AI Website Copy Generator System
 
+## Prompt Strategy Explanation
+
+- Role-based prompting for expertise
+- Clear deliverable structure
+- Tone control parameters
+- Conversion-focused instruction layer
+- Output formatting constraints
+
+---
+
 ## 1. Role Assignment Prompt
 
 "You are a professional website copywriter who specializes in writing high-conversion website copy for local service businesses. 
