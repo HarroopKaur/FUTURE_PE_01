@@ -57,3 +57,52 @@ Your competitors are automating. The question is — will you?
 Book your free strategy consultation and walk away with a clear automation roadmap tailored to your business.
 
 Claim Your Free AI Automation Strategy Call Now →
+
+---
+
+---
+
+## CTA Sections – Version 1 (Initial Output)
+
+### 1️⃣ Urgency-Based CTA
+
+Headline:
+The Businesses Automating Today Will Lead Tomorrow
+
+Copy:
+Manual processes quietly drain revenue, time, and team capacity. The sooner you streamline operations, the sooner you unlock scalable growth and stronger margins.
+
+Secure your consultation now and take the first strategic step toward smarter operations.
+
+Button:
+Book Your AI Strategy Session Today →
+
+---
+
+### 2️⃣ Trust-Based CTA
+
+Headline:
+A Clear Plan. Measurable Impact. No Guesswork.
+
+Copy:
+At NovaAI Solutions, every automation starts with strategy. We assess your operations, identify high-ROI opportunities, and design systems aligned with your business goals — not trends.
+
+Let’s build automation that delivers real, measurable results.
+
+Button:
+Schedule Your Complimentary Consultation →
+
+---
+
+### 3️⃣ Location-Based CTA
+
+Headline:
+Brampton Businesses Are Moving Toward Smarter Systems
+
+Copy:
+NovaAI Solutions proudly supports small and mid-sized businesses across Brampton with custom AI automation designed for local operations and growth goals.
+
+If you’re ready to modernize your systems with a partner who understands your market, let’s talk.
+
+Button:
+Book Your Brampton AI Consultation →
