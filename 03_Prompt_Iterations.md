@@ -169,3 +169,48 @@ If your organization is ready to operate with greater efficiency and precision, 
 
 Button:
 Book Your Brampton AI Strategy Session →
+
+---
+
+## Tone Adaptation Demonstration – Same Business
+
+### Objective:
+Demonstrate that the structured prompt framework supports tone flexibility while keeping the same core business message.
+
+---
+
+### Version A – Professional & Strategic (Final Selected Version)
+
+Headline:
+Turn 10+ Hours of Manual Work Into Fully Automated Systems
+
+Tone Characteristics:
+- Strategic
+- Executive-level
+- Outcome-driven
+- Slightly analytical
+
+---
+
+### Version B – Confident & Simplified Tone
+
+Headline:
+Replace Manual Work with Intelligent Automation
+
+Sub-Headline:
+Custom AI systems built for Brampton businesses ready to save time, reduce costs, and scale without increasing overhead.
+
+Introduction:
+At NovaAI Solutions, we help small and mid-sized businesses eliminate repetitive tasks and run more efficiently with practical, tailored AI solutions.
+
+From 24/7 AI chatbots that handle customer inquiries to streamlined workflows and seamless system integrations, we design automation that fits your operations. Clear strategy. Smart execution. Measurable results from day one.
+
+Tone Characteristics:
+- More direct
+- Slightly bolder
+- Simplified language
+- Still professional
+
+---
+
+This confirms that the prompt system supports tone adjustments while maintaining clarity, benefits, and conversion focus.
