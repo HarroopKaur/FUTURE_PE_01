@@ -8,6 +8,8 @@ This section documents:
 - Improved prompt version
 - Final optimized output
 
+---
+
 ## Version 1 – Initial Output
 
 ### Headline:
