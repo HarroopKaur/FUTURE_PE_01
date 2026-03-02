@@ -71,3 +71,41 @@ We don’t jump straight into tools. We map out inefficiencies, identify ROI opp
 
 **Professional Without the Tech Overload**  
 You get modern, high-performing AI systems explained in clear business language — so you understand exactly how they work and how they impact your bottom line.
+
+---
+
+## Additional CTA Variations
+
+### Urgency-Based CTA
+
+#### Start Reducing Operational Costs This Quarter
+
+Every month spent on manual processes increases labour costs, delays response times, and limits scalability. Strategic automation can immediately reclaim hours, improve accuracy, and strengthen profit margins.
+
+Schedule your consultation and receive a focused automation roadmap built around measurable time savings and cost efficiency.
+
+Reserve Your AI Strategy Consultation →
+
+---
+
+### Trust-Based CTA
+
+#### A Structured Approach to Scalable Growth
+
+We begin with a clear operational assessment, identify high-impact automation opportunities, and implement systems that integrate seamlessly into your existing workflows.
+
+The result: reduced overhead, improved team productivity, and smarter decision-making supported by intelligent systems.
+
+Request Your Executive AI Consultation →
+
+---
+
+### Location-Based CTA
+
+#### Intelligent Automation for Forward-Thinking Brampton Businesses
+
+NovaAI Solutions partners with small and mid-sized businesses in Brampton to streamline operations, reduce manual workload, and build systems designed for sustainable growth.
+
+If your organization is ready to operate with greater efficiency and precision, let’s develop a tailored automation plan.
+
+Book Your Brampton AI Strategy Session →
