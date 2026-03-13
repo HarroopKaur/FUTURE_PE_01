@@ -42,6 +42,14 @@ Services Modeled:
 
 ---
 
+## Website Interface Demo
+
+This short video shows the AI-generated website interface created using Lovable based on the prompt framework.
+
+<video src="demo/novaai-website-demo.mp4" controls width="700"></video>
+
+---
+
 ## 🧠 Prompt System Architecture
 
 The structured framework includes:
