@@ -46,7 +46,7 @@ Services Modeled:
 
 This short video shows the AI-generated website interface created using Lovable based on the prompt framework.
 
-<video src="demo/novaai-website-demo.mp4" controls width="700"></video>
+https://raw.githubusercontent.com/HarroopKaur/FUTURE_PE_01/main/demo/novaai-website-demo.mp4
 
 ---
 
